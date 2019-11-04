@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+*/
+#anchorpane{-fx-background-image:url("images2.jpg");
+
+            -fx-background-size:cover;
+}
+.combobox{-fx-background-radius: 15;
+          -fx-background-color: #e57003;
+          -fx-font-size:20; 
+}
+.button:hover{
+    -fx-font-size:18; 
+    -fx-opacity:0.8;
+}
+#choice
+{
+    -fx-font-size: 20;
+    -fx-background-color:white;
+    -fx-cursor:text;
+    -fx-text-color:black;
+    -fx-opacity: 0.5;
+    -fx-border-style: dashed;
+    -fx-border-radius: 30px;
+    -fx-border-width: 10;
+    -fx-background-repeat: round;
+
+}
+#Gui,#Console
+{
+    -fx-background-radius: 20px;
+    -fx-animated: true;
+    -fx-text-color:black;
+    -fx-cursor: hand;
+    -fx-font-size: 20;
+    -fx-background-color: white;
+
+}
+#vb
+{
+    -fx-background-color:#aaaa12;
+}
+
